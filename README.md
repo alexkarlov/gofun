@@ -1,0 +1,2 @@
+# gofun
+Golang best practices
